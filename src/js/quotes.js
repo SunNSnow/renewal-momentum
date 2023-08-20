@@ -7,7 +7,7 @@ const quotes = [
   {
     quote: "모르긴 왜 몰라, 잘 알지. 갈 데까지 간 놈",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote:
@@ -29,44 +29,44 @@ const quotes = [
     quote:
       "그렇게 인생을 망치고 싶으면 차라리 마약을 하라!! 화투는 슬픈 드라마야...! 아예 모르는 게 약이지.",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "넌 이유가 있어서 돈 잃고 매 맞았어, 이 시끼야?",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "신고정신이 너무 투철하면 리승복이처럼 아가리가 찢어져요.",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote:
       "직싸도록 맞았으니까 너도 썩어지게 때려 줘야지. 타짜의 첫 자세가 야수성이야!",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "손은 눈보다 빠르다!",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote:
       "썅간나새끼, 세상이 아름답고 평등하면 우린 뭘 먹고 사니? 연습이나 하라!",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "두 번째 원칙! 이 세상에 안전한 도박판은 없어!",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "간나새끼, 밑장을 빼면 소리가 달라! 소리가!",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote: "장군님, 원래 등잔밑이 더 뜨거운 법이랍니다?",
@@ -81,7 +81,7 @@ const quotes = [
   {
     quote: "마지막 원칙, 이 바닥엔 영원한 친구도 원수도 없어.",
     author: "평경장",
-    img: "https://i.namu.wiki/i/2lAgtz94ixjFqjKm8kc94ZitcXb2BhqpKrFN71_WxBFEE-ft0zwxYtRmpfYG7oqcdT4OJry6Z8ldlHbyb-uTWEob4sJoXRRbb9CBQ3HQgSlgPiRC8lUOUVXDTBZVW8hkyWW-QzHcurT_z-sz0oDoSA.webp",
+    img: "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MTRfMjQ5/MDAxNTY4NDMwMTE5Mzk3.iG2rAapa36WkK5lNPpvJJcTjbB52tVlDVpsVN1haWjAg.cF0FhjKdRzCZoEBrJjVr20JwlO9RnVY4A7eh2ymA_Z4g.PNG.uns1111/20190914120155.png?type=w800",
   },
   {
     quote:
@@ -204,3 +204,12 @@ quote.innerText = todaysQuote.quote;
 author.innerText = todaysQuote.author;
 bgImg.src = todaysQuote.img;
 document.body.appendChild(bgImg);
+
+const quoteContainer = document.querySelector(".quote");
+
+quoteContainer.addEventListener("mouseenter", () =>
+  author.classList.remove("hidden")
+);
+quoteContainer.addEventListener("mouseleave", () =>
+  author.classList.add("hidden")
+);

@@ -53,6 +53,9 @@ if (savedToDos) {
   parsedToDos.forEach((item) => paintToDo(item));
 }
 
-// deletingFilter = (item) => {
-//   return item.id !==
-// }
+const toDoContainer = document.querySelector(".todo");
+const toDoToggleBtn = document.querySelector(".todo-btn");
+
+toDoToggleBtn.addEventListener("click", () =>
+  toDoContainer.classList.toggle("hidden")
+);

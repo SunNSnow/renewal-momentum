@@ -4,9 +4,38 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Momentum</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="src/css/style.css" />
   </head>
   <body>
+    <div class="bookmark">
+      <i class="fa-solid fa-bookmark bookmark__btn"></i>
+      <div class="bookmark__link-container hidden">
+        <div class="divider bookmark__link"></div>
+        <a href="https://www.google.com/" class="bookmark__link">
+          <i class="fa-brands fa-google"></i>
+        </a>
+        <a href="https://www.youtube.com/" class="bookmark__link">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+        <a href="https://www.linkedin.com/" class="bookmark__link">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+        <a href="https://github.com/" class="bookmark__link">
+          <i class="fa-brands fa-github"></i>
+        </a>
+        <a href="https://nomadcoders.co/" class="bookmark__link">
+          <img src="https://nomadcoders.co/m.svg" />
+        </a>
+      </div>
+    </div>
+
+    <div class="weather">
+      <span></span>
+      <span></span>
+    </div>
+
+    <h2 class="clock"></h2>
+
     <form class="login-form hidden">
       <input
         required
@@ -17,30 +46,33 @@
       <button>Log In</button>
     </form>
 
-    <h2 class="clock"></h2>
-
     <h1 class="hidden greeting"></h1>
 
-    <form class="todo-form">
-      <input type="text" placeholder="Write a To Do and Press Enter" />
-    </form>
+    <div class="todo hidden">
+      <form class="todo-form">
+        <input type="text" placeholder="Write a To Do and Press Enter" />
+      </form>
 
-    <ul class="todo-list"></ul>
+      <ul class="todo-list"></ul>
+    </div>
+
+    <span class="todo-btn">Click ToDo</span>
 
     <div class="quote">
       <span></span>
-      <span></span>
+      <span class="hidden"></span>
     </div>
 
-    <div class="weather">
-      <span></span>
-      <span></span>
-    </div>
-
-    <script src="js/greeting.js"></script>
-    <script src="js/clock.js"></script>
-    <script src="js/quotes.js"></script>
-    <script src="js/todo.js"></script>
-    <script src="js/weather.js"></script>
+    <script src="src/js/greeting.js"></script>
+    <script src="src/js/clock.js"></script>
+    <script src="src/js/quotes.js"></script>
+    <script src="src/js/todo.js"></script>
+    <script src="src/js/weather.js"></script>
+    <script src="src/js/weather.js"></script>
+    <script src="src/js/bookmark.js"></script>
+    <script
+      src="https://kit.fontawesome.com/130998b18d.js"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
